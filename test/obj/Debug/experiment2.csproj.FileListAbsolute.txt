@@ -1,0 +1,10 @@
+E:\WindowFormLearning\test\bin\Debug\test.exe.config
+E:\WindowFormLearning\test\bin\Debug\test.exe
+E:\WindowFormLearning\test\bin\Debug\test.pdb
+E:\WindowFormLearning\test\obj\Debug\experiment2.csproj.AssemblyReference.cache
+E:\WindowFormLearning\test\obj\Debug\test.Form1.resources
+E:\WindowFormLearning\test\obj\Debug\test.Properties.Resources.resources
+E:\WindowFormLearning\test\obj\Debug\experiment2.csproj.GenerateResource.cache
+E:\WindowFormLearning\test\obj\Debug\experiment2.csproj.CoreCompileInputs.cache
+E:\WindowFormLearning\test\obj\Debug\test.exe
+E:\WindowFormLearning\test\obj\Debug\test.pdb
