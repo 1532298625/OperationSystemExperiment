@@ -1,0 +1,10 @@
+E:\WindowFormLearning\CarTest\obj\Debug\CarTest.csproj.AssemblyReference.cache
+E:\WindowFormLearning\CarTest\obj\Debug\CarTest.Form1.resources
+E:\WindowFormLearning\CarTest\obj\Debug\CarTest.Properties.Resources.resources
+E:\WindowFormLearning\CarTest\obj\Debug\CarTest.csproj.GenerateResource.cache
+E:\WindowFormLearning\CarTest\obj\Debug\CarTest.csproj.CoreCompileInputs.cache
+E:\WindowFormLearning\CarTest\bin\Debug\CarTest.exe.config
+E:\WindowFormLearning\CarTest\bin\Debug\CarTest.exe
+E:\WindowFormLearning\CarTest\bin\Debug\CarTest.pdb
+E:\WindowFormLearning\CarTest\obj\Debug\CarTest.exe
+E:\WindowFormLearning\CarTest\obj\Debug\CarTest.pdb
